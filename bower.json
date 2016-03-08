@@ -6,6 +6,6 @@
         "url": "https://github.com/hugueschabot/custom-bootstrap.git"
     },
     "dependencies": {
-        "bootstrap": "~3.0.0"
+        "bootstrap": "~3.0.3"
     }
 }
